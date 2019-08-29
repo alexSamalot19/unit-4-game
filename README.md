@@ -78,9 +78,9 @@ Having an active and healthy commit history on GitHub is important for your futu
 
 ##### Option 1 Game design notes
 
-[] The random number shown at the start of the game should be between 19 - 120.
+[x] The random number shown at the start of the game should be between 19 - 120.
 
-[] Each crystal should have a random hidden value between 1 - 12.
+[x] Each crystal should have a random hidden value between 1 - 12.
 
 
 
