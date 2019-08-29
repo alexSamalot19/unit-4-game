@@ -19,8 +19,15 @@ body {
 /* 
     grid-template-rows: 300px;
     grid-template-columns: 300px */
-  }
 
+    
+
+  }
+  
+  h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+}
 
   .main-section {
     float: left;
@@ -32,7 +39,7 @@ body {
   
     /* Positioning */
     margin: 0 0 40px;
-    background: #fff;
+    background: antiquewhite;
   
     /* Visual */
     border: 1px solid #ddd;
@@ -54,16 +61,16 @@ body {
    */
 
 
-/* .crystals {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+ .crystals {
+display: grid;
+    grid-template-columns: 300px 300px;
+    grid-template-rows: 300px 300px;
 
 }
 
-.crystals:nth-child(even) {
+/* .crystals:nth-child(even) {
     margin-right: 40px;
-  } */
+  }  */
 
 
 .crystal {
@@ -80,7 +87,7 @@ body {
   
     height: 274px;
     width: 274px;
-    margin: 20px 25px;
+    margin: 20px 10px;
     overflow: auto;
 
 
