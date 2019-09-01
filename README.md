@@ -61,7 +61,7 @@ Having an active and healthy commit history on GitHub is important for your futu
 
    [x] When the player clicks on a crystal, it will add a specific amount of points to the player's total score. 
 
-     [] Your game will hide this amount until the player clicks a crystal.
+     [x] Your game will hide this amount until the player clicks a crystal.
 
 
      [x] When they do click one, update the player's score counter.
@@ -76,16 +76,23 @@ Having an active and healthy commit history on GitHub is important for your futu
 
    [x] The app should show the number of games the player wins and loses. To that end, do not refresh the page as a means to restart the game.
 
-##### Option 1 Game design notes
+====================================================================================
+Option 1 Game design notes
 
 [x] The random number shown at the start of the game should be between 19 - 120.
 
 [x] Each crystal should have a random hidden value between 1 - 12.
+------------------------------------------------------------------------------------
+As a sidenote:
 
+ [x] The code should resize for movile and various sizes:
 
+ [x] submitted folders should not have irrelevant files
 
-[] As a sidenote the code should resize for movile and various sizes:
-  also need to link THIS AND ALL GAMES TO THE BOOSTRAP PORTFOLIO!
+ [] Clear/Commented/Commited
+
+ ==================================================================================
+
 
 
 
